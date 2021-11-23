@@ -1,3 +1,3 @@
 - 👋 Hi, I’m **Hocine Gasmi**
-- 👀 I’m interested in Programming
-- 📫 Twitter @GHocine54
+- 👀 I’m interested in **Programming**
+- 📫 Twitter **@GHocine54**
